@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cursor-dot": "^1.0.5",
+    "kursor": "^0.1.6",
+    "lightgallery": "^2.2.0"
+  }
+}
